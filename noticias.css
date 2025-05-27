@@ -6,7 +6,22 @@ nav{
     background-color: darkgrey;
     color:rgb(43, 43, 43);
 }
-img{
+.logo{
     width: 200px;
     height: 66px;
+}
+.noticia{
+    width: 300px;
+    display:flex;
+    
+    align-items: center;
+}
+.coiso{
+    width: 150px;
+}
+article{
+    background-color: rgb(221, 221, 221);
+}
+.treco{
+    color:rgb(80, 80, 80)
 }
